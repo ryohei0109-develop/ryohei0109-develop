@@ -40,7 +40,8 @@ Qiita(第3回): https://qiita.com/ryohei0109_develop/items/493f93de86edc1c4a858
 # Node.js
 ## Node.js学習
 リポジトリ: https://github.com/ryohei0109-develop/nodejs_blog  
-リポジトリ: https://github.com/ryohei0109-develop/nodejs_todo_application
+## Node.js TODOアプリケーション サンプル
+リポジトリ: https://github.com/ryohei0109-develop/nodejs-todo-app
 <br>
 <br>
 # React
